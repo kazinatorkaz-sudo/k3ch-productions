@@ -1,2 +1,5 @@
-# k3ch-productions
-Vitrine K3CH Productions — site public
+# K3CH Productions
+
+Vitrine publique.
+
+Site : https://kazinatorkaz-sudo.github.io/k3ch-productions/
